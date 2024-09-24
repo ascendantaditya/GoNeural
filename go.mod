@@ -1,4 +1,4 @@
-module main.go
+module github.com/ascendantaditya/goneural
 
 go 1.23.1
 
